@@ -22,4 +22,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
 // place overrides here
-
+#define TAPPING_TOGGLE 2                //Set TT to 2 (Default is 5)
